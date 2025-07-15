@@ -1,13 +1,3 @@
-#contact-info { /* Target the div with id="contact-info" */
-    background-color: #e0f7fa; /* Light cyan */
-    border: 1px solid #00bcd4; /* Teal border */
-    padding: 15px;
-    margin-top: 30px;
-    width: 300px; /* Fixed width */
-    margin-left: auto; /* Centers the div if it has a width */
-    margin-right: auto;
-}
-
 body {
     background-color: #044A46;
 }
@@ -40,4 +30,11 @@ h1{
 h2{
     color:#74c365;
     text-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
