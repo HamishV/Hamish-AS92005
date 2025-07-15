@@ -14,7 +14,6 @@ body {
 
 h1{
     color:#FFFFFF;
-    font-family:;
     text-align:center;
 }
 
@@ -35,5 +34,10 @@ h1{
 }
 
 .navbar a:hover {
-    background-color: #327ded;  /* Slightly lighter green on hover */
+    background-color: #74c365;
+}
+
+h2{
+    color:#74c365;
+    text-align:center;
 }
