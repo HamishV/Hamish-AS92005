@@ -1,7 +1,7 @@
 body {
     background-color: #044A46;
 }
-
+<!-- This is changing the background colour of the doc -->
 h1{
     color:#FFFFFF;
     text-align:center;
@@ -14,7 +14,7 @@ h1{
     display: flex;
     justify-content: center;
 }
-
+<!-- This is for the navbar making its colour different aswell as its location -->
 .navbar a {
     color: #044A46;
     text-decoration: none;
@@ -60,7 +60,7 @@ background-color: #FFFFFF;
   width: 100%;
   text-align: center;
 }
-
+<!-- This is for my footer, fixing its position as the bottom as well as the colour -->
 list{
     color:#74c365;
     text-align:center;
@@ -93,7 +93,7 @@ p{
   margin-right: auto;
   width: 10%;
 }
-
+<!-- This is resizing and adjusting the size of my image -->
 .link{
   background-color: transparent;
   text-decoration: none;
